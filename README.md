@@ -44,3 +44,7 @@ M1 uses PWM pin 11 internally
 M2 uses PWM pin 3 internally
 Other digital pins are automatically managed
 That’s why you don’t need to define motor pins in code.
+
+## 🎥 Demo Video
+Watch the working demo of the project here:  
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube)](https://youtu.be/pKmUPDgrvU4)
