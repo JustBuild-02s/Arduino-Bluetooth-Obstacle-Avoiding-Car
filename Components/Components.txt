@@ -1,0 +1,8 @@
+Arduino UNO
+HC-05 Bluetooth Module
+L298N Motor Driver
+Ultrasonic Sensor (HC-SR04)
+DC Motors
+Chassis
+Battery Pack
+Jumper Wires
